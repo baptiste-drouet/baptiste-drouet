@@ -1,4 +1,10 @@
-### Hi there 👋
+# Presentation
+I'm a developper managing Java, Web programmation, Python, Ocaml and Javascript.
+
+# Socials 
+Discord : diofun
+Twitter : DioFun_
+
 
 <!--
 **DioFun/DioFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
