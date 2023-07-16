@@ -2,7 +2,7 @@
 I'm a developper managing Java, Web programmation, Python, Ocaml and Javascript.
 
 # Socials 
-Discord : diofun
+Discord : diofun\
 Twitter : DioFun_
 
 
