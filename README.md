@@ -1,5 +1,6 @@
 # Presentation
-I'm a developper managing Java, Web programmation, Python, Ocaml and Javascript.
+I'm a developper managing Java, Web programmation, Python, Ocaml and Javascript. 
+Currently engineering student at Centrale Lille Institut, France.
 
 # Socials 
 Discord : diofun\
