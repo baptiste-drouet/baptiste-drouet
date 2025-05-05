@@ -4,7 +4,6 @@ Currently engineering student at Centrale Lille Institut, France.
 
 # Socials 
 Discord : diofun\
-Twitter : DioFun_
 
 
 <!--
